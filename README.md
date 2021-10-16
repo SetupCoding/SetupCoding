@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/88838aff-6f6e-4eeb-9382-450aa80ff968.svg)](https://wakatime.com/@88838aff-6f6e-4eeb-9382-450aa80ff968)
+
 <!--
 **SetupCoding/SetupCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
