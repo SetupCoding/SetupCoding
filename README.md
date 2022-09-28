@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on the [Porsche Design System](https://designsystem.porsche.com/v2/#)
 - 💬 Ask me about React, Next.js, Testing, 3D-Printing and VR
+- 📫 How to reach me: https://www.linkedin.com/in/antonschmidt/
 
 <!--
 **SetupCoding/SetupCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
