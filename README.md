@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/88838aff-6f6e-4eeb-9382-450aa80ff968.svg)](https://wakatime.com/@88838aff-6f6e-4eeb-9382-450aa80ff968)
 
 - 🔭 I’m currently working on the [Porsche Design System](https://designsystem.porsche.com/v2/#)
-- 💬 Ask me about React, 3D-Printing
+- 💬 Ask me about React, Next.js, Testing, 3D-Printing and VR
 
 <!--
 **SetupCoding/SetupCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
