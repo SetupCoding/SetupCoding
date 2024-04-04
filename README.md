@@ -2,9 +2,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/88838aff-6f6e-4eeb-9382-450aa80ff968.svg)](https://wakatime.com/@88838aff-6f6e-4eeb-9382-450aa80ff968)
 
-- 🔭 I’m currently working for Eurowings Digital and STIHL
+- 🔭 I’m currently working for STIHL
 - ⭐️ Worked on the [Porsche Design System](https://designsystem.porsche.com/v2/#)
-- 💬 Ask me about React, Next.js, Testing, 3D-Printing and VR
+- 💬 Ask me about React, Next.js, Test Automation, Design Systems, 3D-Printing, Virtual Reality and Gaming
 - 📫 How to contact me: https://www.linkedin.com/in/antonschmidt/
 
 <!--
