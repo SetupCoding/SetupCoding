@@ -23,11 +23,12 @@
 [![Node](https://img.shields.io/badge/Node.js-%E2%89%A520-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/npm-%E2%89%A510-CB0000?logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Docker](https://img.shields.io/badge/Docker-enabled-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![axe-core](https://img.shields.io/badge/axe--core-a11y-39424E?logo=axe&logoColor=white)](https://www.deque.com/axe/)
 [![Axe Playwright](https://img.shields.io/badge/Axe%20Playwright-a11y-663399?logo=axe&logoColor=white)](https://github.com/abhinaba-ghosh/axe-playwright)
 [![Storybook A11y](https://img.shields.io/badge/Storybook%20A11y-enabled-FF4785?logo=storybook&logoColor=white)](https://storybook.js.org/addons/@storybook/addon-a11y/)
 [![Storybook Test Runner](https://img.shields.io/badge/Storybook%20Tests-enabled-FF4785?logo=storybook&logoColor=white)](https://github.com/storybookjs/test-runner)
 [![Accessibility Tests](https://img.shields.io/badge/Accessibility%20Tests-passing-2EAD33?logo=w3c&logoColor=white)](#)
-[![axe-core](https://img.shields.io/badge/axe--core-a11y-39424E?logo=axe&logoColor=white)](https://www.deque.com/axe/)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
