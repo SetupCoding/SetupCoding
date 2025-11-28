@@ -7,7 +7,39 @@
 - 💬 Ask me about React, Next.js, Test Automation, Design Systems, 3D-Printing, Virtual Reality and Gaming
 - 📫 How to contact me: https://www.linkedin.com/in/antonschmidt/
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&labelColor=20232a)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&labelColor=1b1e24)](https://vitejs.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=1b1e24)](https://www.typescriptlang.org/)
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=white&labelColor=1b1e24)](https://sass-lang.com/)
+
+<br/>
+
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&labelColor=1b1e24)](https://storybook.js.org/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&labelColor=1b1e24)](https://eslint.org/)
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white&labelColor=1b1e24)](https://prettier.io/)
+[![Husky](https://img.shields.io/badge/Husky-000000?logo=husky&logoColor=white&labelColor=1b1e24)](https://typicode.github.io/husky/)
+[![SVGO](https://img.shields.io/badge/SVGO-3F8CFF?logo=svg&logoColor=white&labelColor=1b1e24)](https://github.com/svg/svgo)
+
+<br/>
+
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white&labelColor=1b1e24)](https://vitest.dev/)
+[![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?logo=testing-library&logoColor=white&labelColor=1b1e24)](https://testing-library.com/)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&labelColor=1b1e24)](https://playwright.dev/)
+[![Storybook Test Runner](https://img.shields.io/badge/Storybook%20Tests-FF4785?logo=storybook&logoColor=white&labelColor=1b1e24)](https://github.com/storybookjs/test-runner)
+
+<br/>
+
+[![axe-core](https://img.shields.io/badge/axe--core-39424E?logo=axe&logoColor=white&labelColor=1b1e24)](https://www.deque.com/axe/)
+[![Axe Playwright](https://img.shields.io/badge/Axe%20Playwright-663399?logo=axe&logoColor=white&labelColor=1b1e24)](https://github.com/abhinaba-ghosh/axe-playwright)
+[![Storybook A11y](https://img.shields.io/badge/A11y-FF4785?logo=storybook&logoColor=white&labelColor=1b1e24)](https://storybook.js.org/addons/@storybook/addon-a11y/)
+[![Accessibility Tests](https://img.shields.io/badge/Accessibility%20Tests-2EAD33?logo=w3c&logoColor=white&labelColor=1b1e24)](#)
+
+<br/>
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&labelColor=1b1e24)](https://nodejs.org/)
+[![npm](https://img.shields.io/badge/npm-CB0000?logo=npm&logoColor=white&labelColor=1b1e24)](https://www.npmjs.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&labelColor=1b1e24)](https://www.docker.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&labelColor=20232a)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&labelColor=1b1e24)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=1b1e24)](https://www.typescriptlang.org/)
@@ -28,6 +60,7 @@
 [![Storybook A11y](https://img.shields.io/badge/A11y-FF4785?logo=storybook&logoColor=white&labelColor=1b1e24)](https://storybook.js.org/addons/@storybook/addon-a11y/)
 [![Storybook Test Runner](https://img.shields.io/badge/Storybook%20Tests-FF4785?logo=storybook&logoColor=white&labelColor=1b1e24)](https://github.com/storybookjs/test-runner)
 [![Accessibility Tests](https://img.shields.io/badge/Accessibility%20Tests-2EAD33?logo=w3c&logoColor=white&labelColor=1b1e24)](#)
+
 
 
 
